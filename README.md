@@ -5,11 +5,13 @@
 AtliQ Grands is a well-established hospitality company that owns multiple five-star hotels across India. The company has been in the industry for the past 20 years and is known for its luxury and business hotels.
 
 **PROBLEM STATEMENT**
+
 AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share revenue in the luxury/business hotels category.
 
 Objective: To provide AtliQ Grands with insights from their historical data to regain their market share and revenue.
 
 **SKILLS DEMONSTRATED**
+
 This project exposed me to learn a lot using Microsoft Power BI.
 
 · Multiple complex DAX formulas and Functions.
@@ -71,9 +73,14 @@ Total Bookings : To get the total number of bookings happened: Formula : Total B
 **INSIGHTS**
 
 Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi.
-AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
-AtliQ Bay has the highest occupancy of 66%.
+
 Week 24 recorded the highest revenue among all, which is 139.6 Million.
+
 Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore.
-AtliQ lost around 298 Million in cancellation.
+
 Elite type rooms has the most booking and as well higher cancellation rate.
+
+**Screenshot:**
+
+<img width="623" height="339" alt="Hospitality_Insights" src="https://github.com/user-attachments/assets/e46cf760-0226-40c1-a473-e0035a2b3267" />
+
